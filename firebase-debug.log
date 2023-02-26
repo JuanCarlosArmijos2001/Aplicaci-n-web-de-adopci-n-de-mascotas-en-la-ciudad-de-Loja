@@ -1,0 +1,21 @@
+[debug] [2023-02-26T19:54:05.481Z] ----------------------------------------------------------------------
+[debug] [2023-02-26T19:54:05.483Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\A S U S\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-02-26T19:54:05.483Z] CLI Version:   11.24.0
+[debug] [2023-02-26T19:54:05.483Z] Platform:      win32
+[debug] [2023-02-26T19:54:05.483Z] Node Version:  v16.17.1
+[debug] [2023-02-26T19:54:05.484Z] Time:          Sun Feb 26 2023 14:54:05 GMT-0500 (hora de Ecuador)
+[debug] [2023-02-26T19:54:05.484Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-02-26T19:54:05.495Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-02-26T19:54:05.495Z] > authorizing via signed-in user (juanarmijos972@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\A S U S\Documents\adopta-loja
+
